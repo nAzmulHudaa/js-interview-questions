@@ -5,4 +5,3 @@ var round2 = Math.round(num);
 var randomNum = Math.random()*6;
 var output = Math.round(randomNum)
 console.log(round,round1,round2);
- XMLDocument
